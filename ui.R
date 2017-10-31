@@ -8,7 +8,7 @@ samples <- names(saved.data)
 
 ## Define UI for application that draws a histogram
 shinyUI(fluidPage(
-    progressInit(),    
+    #progressInit(),    
     ## Application title
     titlePanel("Differential Expression Interactive Heatmap"),
     
